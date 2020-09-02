@@ -26,3 +26,6 @@ git push -u origin master
 'git commit -m 'MENSAJE''
 - 3.- Subir los cambios a GITHUB
 'git push -u origin master'
+
+------------------------------------------
+- 4.- Descargar cambios del repositorio a la nube (github) 'git pull'
