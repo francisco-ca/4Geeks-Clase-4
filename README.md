@@ -19,3 +19,10 @@ git branch -M master
 git push -u origin master
 '''
 
+## PASOS PARA SUBIR CAMBIOS A GITHUB
+- 1.- AGREGAR CAMBIOS
+'git add '
+- 2.- Hacer commit
+'git commit -m 'MENSAJE''
+- 3.- Subir los cambios a GITHUB
+'git push -u origin master'
